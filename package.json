@@ -1,0 +1,19 @@
+{
+  "name": "karma",
+  "version": "1.0.0",
+  "description": "trail",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello karma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitkawale/karma_trail.git"
+  },
+  "author": "rohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitkawale/karma_trail/issues"
+  },
+  "homepage": "https://github.com/rohitkawale/karma_trail#readme"
+}
